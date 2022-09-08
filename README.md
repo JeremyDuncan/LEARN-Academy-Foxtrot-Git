@@ -1,4 +1,4 @@
-# THis is a test file to verify Git Integration
+# This is a test file to verify Git Integration
 
 ## Important Git Commands: 
 
